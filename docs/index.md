@@ -6,8 +6,11 @@ layout: home
 title: About
 ---
 
-Welcome to my portfolio! My name is Isaac Bromley-Dulfano (he/him), and I'm a third year electrical engineering undergraduate at the University of Michigan.
+![](assets/mandlebrot.png) 
 
-Over the last three years, I've developed growing passions for renewable energy, embedded systems, and the intersection between engineering, art, and community. I hope this website offers additional perspective on the work I've done and the interests that I have. 
+Welcome to my portfolio! My name is Isaac Bromley-Dulfano (he/him), and I'm a third year undergraduate studying electrical engineering at the University of Michigan.
 
-<img src="assets/block-m.jpg" alt="University of Michigan" width=200 height=200>
+Over the last three years, I've discovered growing passions for renewable energy, embedded systems, and the intersection between engineering, art, and community. I hope this website offers additional perspective on the work I've done and the interests that I have. 
+
+Thanks,
+Isaac
