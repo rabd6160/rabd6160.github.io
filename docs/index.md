@@ -6,12 +6,12 @@ layout: home
 title: About
 ---
 
-Welcome to my portfolio! My name is Isaac Bromley-Dulfano (he/him), and I'm a third year undergraduate studying electrical engineering at the University of Michigan.
+Welcome to my portfolio! My name is Rebecca Bromley-Dulfano (she/her), and I'm a third year medical student at Stanford University.
 
-Over the last three years, I've discovered growing passions for renewable energy, embedded systems, and the intersection between engineering, art, and community. I hope this website offers additional perspective on the work I've done and the interests that I have. 
+Over the last three years, I've discovered growing passions for health policy, internal medicine, and the social determinants of health. I hope this website offers additional perspective on the work I've done and the interests that I have. 
 
 Thanks,
-Isaac
+Becca
 
 <br/>
 
