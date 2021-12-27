@@ -15,4 +15,4 @@ Becca
 
 <br/>
 
-![](assets/mandlebrot.png) 
+![](assets/slc.png) 
