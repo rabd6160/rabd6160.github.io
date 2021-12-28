@@ -11,7 +11,7 @@ _"Effects of Cervical Cancer Screening Policy on Birth Outcomes," 2021.
 "Characterizing Gastrointestinal Dysfunction After Pancreatic Resection," 2021._
 
 # **Publications** 
-### _*Co-first author_
+#### _*Co-first author_
 
 Bianca Mulaney, **Bromley-Dulfano, Rebecca***, Erin K. McShane, Martin Stepanek, and Sara J. Singer. "[Descriptive Study of Employee Engagement with Workplace Wellness Interventions in the UK](https://journals.lww.com/joem/Abstract/9000/Descriptive_Study_of_Employee_Engagement_with.97904.aspx)." Journal of Occupational and Environmental Medicine (2021).
 
@@ -38,9 +38,9 @@ Academy of Management Annual Meeting. Evaluation of Workplace Wellness Programs.
 
 AcademyHealth 2021 Annual Research Meeting. Evaluation of Workplace Wellness Programs. _Poster Presenter._ June 17, 2021.
 
-[Stanford OCE Community Health Symposium. Santa Clara County Public Health Department Climate Change Planning and Vulnerability Assessment.](https://med.stanford.edu/oce/partnerships-collaborations/community-health-symposium/community-health-symposium-abstracts---posters.html) _Poster Presenter._ March 31, 2021.
+Stanford OCE Community Health Symposium. [Santa Clara County Public Health Department Climate Change Planning and Vulnerability Assessment.](https://med.stanford.edu/oce/partnerships-collaborations/community-health-symposium/community-health-symposium-abstracts---posters.html) _Poster Presenter._ March 31, 2021.
 
-[NorCal Symposium on Climate and Pandemic Resilience in Healthcare](https://med.stanford.edu/allergyandasthma/news/CurrentEvents/NorCalSymposium.html)._ Organizer_, Sept. 25, 2020.
+[NorCal Symposium on Climate and Pandemic Resilience in Healthcare](https://med.stanford.edu/allergyandasthma/news/CurrentEvents/NorCalSymposium.html). _Organizer._ Sept. 25, 2020.
 
 [NorCal Mini-Symposium on Climate and Pandemic Resilience in Healthcare](https://conservation.stanford.edu/events/norcal-mini-symposium-climate-and-pandemic-resilience). _Organizer._ Feb. 18, 2021.
 
