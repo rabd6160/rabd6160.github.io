@@ -28,44 +28,47 @@ Stanford EMT Training Program Coordinator, {\sc EMED 111A/B/C}, AY 2018-2019
  </li>
 </ul>
 
-	 
-\item Live-in Peer Counselor, The Bridge Peer Counseling Center, AY 2017-2018
-\begin{itemize}
-	\item[$\circ$] Staffed night shifts for 24/7 anonymous peer counseling service at Stanford University
-	\item[$\circ$] Supported day time staffers for high-acuity counsels
-	\end{itemize}
+Live-in Peer Counselor, The Bridge Peer Counseling Center, AY 2017-2018
 
-\end{itemize}
+<ul>
+    <li>Staffed night shifts for 24/7 anonymous peer counseling service at Stanford University</li>
+    <li>Built community among staffers, served as a liaison between the organization and the university, supported day time staffers during high-acuity counsels</li>
+ </li>
+</ul>
 
-\bigskip
+# Teaching
 
-\section*{Teaching}
-\vspace{-15pt}
-\noindent\rule{\textwidth}{0.75pt}
+Clinical Skills Teaching Assistant, INDE 201-202: Practice of Medicine, Fall and Winter 2020-21
 
-\begin{itemize}
-\item Clinical Skills Teaching Assistant, {\sc INDE 201-202}: Practice of Medicine, Fall and Winter 2020-21
-\item Course Lead, Wilderness Leadership and Mentorship Skills for Medical Students. Spring 2020-21
-\item Clinical Instructor, {\sc EMED 111A/B/C}:  Emergency Medical Responder Training, AY 2018-2019
-\item Teaching Assistant, {\sc EDUC 193A}: Core Peer Counseling Skills, Winter 2016, Winter 2017
-\end{itemize}
+Course Lead, EMED 235: Wilderness Leadership and Mentorship Skills for Medical Students. Spring 2020-21
+
+Clinical Instructor, EMED 111A/B/C:  Emergency Medical Responder Training, AY 2018-2019
+
+Teaching Assistant, EDUC 193A: Core Peer Counseling Skills, Winter 2016, Winter 2017
+
+# Other Activities
+
+Committee on Curriculum and Academic Policy (CCAP), Class Representative. AY 2020-21, AY 2021-22
+
+LCME Re-accreditation Committee Self-Study Taskforce, Medical Student Representative, AY 2020-21
+
+First-Generation, Low-Income Medical Mentorship Program, Board Member and Mentor, June 2021-Present
+
+Stanford Climate and Health, Founder, Board Member (AY 19-20), and Member. 2019-present
+
+Stanford Health Policy Collective, Director. AY 2020-21
+
+Latino Medical Student Association, Financial Officer. AY 2020-2021
+
+Stanford LGBTQ+ Meds, Financial Officer. AY 2020-2021
+
+Associated Students of Stanford University, Mental Health and Wellness Issue Lead. AY 2017-2018
+
+Stanford Mental Health and Wellness Coalition, Director. AY 2016-2017
+
+Stanford University, Norcliffe Hall, Residential Assistant. AY 2016-2017
+
+The Bridge Peer Counseling Center, Peer Counselor. AY 2015-2018
 
 
-\bigskip
 
-\section*{Other Activities}
-\vspace{-15pt}
-\noindent\rule{\textwidth}{0.75pt}
-
-\begin{itemize}
-\item {Committee on Curriculum and Academic Policy (CCAP), {\em Class Representative.}} AY 2020-21, AY 2021-22
-\item {LCME Re-accreditation Committee Self-Study Taskforce, {\em Medical Student Representative}, AY 2020-21}
-\item {First-Generation, Low-Income Medical Mentorship Program, {\em Board Member and Mentor}, June 2021-Present}
-\item {Stanford Climate and Health,} {\em Founder, Board Member (AY 19-20), and Member}. 2019-present
-\item {Stanford Health Policy Collective, {\em Director}. AY 2020-21.}
-\item {Latino Medical Student Association}, {\em Financial Officer}. AY 2020-2021.
-\item {Stanford LGBTQ+ Meds, {\em Financial Officer}.} AY 2020-2021
-\item {Associated Students of Stanford University, {\em Mental Health and Wellness Issue Lead}.} AY 2017-2018
-\item {Stanford Mental Health and Wellness Coalition, {\em Director.} AY 2016-2017}
-\item {Stanford University, Norcliffe Hall, {\em Residential Assistant}.} AY 2016-2017
-\item {The Bridge Peer Counseling Center, {\em Peer Counselor}.} AY 2015-2018
