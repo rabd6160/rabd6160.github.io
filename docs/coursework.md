@@ -44,9 +44,9 @@ CHEM 143 The Chemical Principles of Life II, Chaitan Khosla
 APPPHYS 293 Theoretical Neuroscience, Surya Ganguli  
 
 ## Medical School
-BIOC 200pplied Biochemistry, Tina Cowen  
-BIOC 205, Molecular Foundations of Medicine, Gilbert Chu  
-GENE 202, Human Genetics, Jon Bernstein  
+BIOC 200 Applied Biochemistry, Tina Cowen  
+BIOC 205 Molecular Foundations of Medicine, Gilbert Chu  
+GENE 202 Human Genetics, Jon Bernstein  
 INDE 201 Practice of Medicine, Ponam Hosamani  
 INDE 218 Histology, Darren Salmi  
 SURG 201 Embryology, Darren Salmi  
