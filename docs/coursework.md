@@ -5,7 +5,7 @@ permalink: /coursework/
 ---
 
 ## Math/Statistics
-HRP 259 Introduction to Probability and Statistics for Epidemiology, Kristin Sainani
+HRP 259 Introduction to Probability and Statistics for Epidemiology, Kristin Sainani \s
 HRP 261 Intermediate Biostatistics: Analysis of Discrete Data, Kristin Sainani
 HRP 252 Outcomes Analysis, Eran Bendavid and Jay Bhattacharya
 MATH 1220 Calculus II, Kelly McArthur
