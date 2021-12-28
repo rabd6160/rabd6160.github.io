@@ -48,7 +48,9 @@ Teaching Assistant, EDUC 193A: Core Peer Counseling Skills, Winter 2016, Winter 
 
 # Other Activities
 
-Committee on Curriculum and Academic Policy (CCAP), Class Representative. AY 2020-21, AY 2021-22
+Committee on Curriculum and Academic Policy (CCAP), Clinical Students Representative. AY 2021-22
+
+Committee on Curriculum and Academic Policy (CCAP), MS2 Class Representative. AY 2020-21
 
 LCME Re-accreditation Committee Self-Study Taskforce, Medical Student Representative, AY 2020-21
 
