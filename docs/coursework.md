@@ -5,14 +5,14 @@ permalink: /coursework/
 ---
 
 ## Math/Statistics
-HRP 259 Introduction to Probability and Statistics for Epidemiology, Kristin Sainani\s\s
-HRP 261 Intermediate Biostatistics: Analysis of Discrete Data, Kristin Sainani
-HRP 252 Outcomes Analysis, Eran Bendavid and Jay Bhattacharya
-MATH 1220 Calculus II, Kelly McArthur
-MATH 2210 Calculus III, Domingo Toledo
-MATH 2250 Differential Equations and Linear Algebra, Grant B. Gustafson
-MATH 131P Partial Differential Equations, Xuwen Shu
-CME 106 Introduction to Probability and Statistics for Engineers, Vadim Khayms
+HRP 259 Introduction to Probability and Statistics for Epidemiology, Kristin Sainani  
+HRP 261 Intermediate Biostatistics: Analysis of Discrete Data, Kristin Sainani  
+HRP 252 Outcomes Analysis, Eran Bendavid and Jay Bhattacharya  
+MATH 1220 Calculus II, Kelly McArthur  
+MATH 2210 Calculus III, Domingo Toledo  
+MATH 2250 Differential Equations and Linear Algebra, Grant B. Gustafson  
+MATH 131P Partial Differential Equations, Xuwen Shu  
+CME 106 Introduction to Probability and Statistics for Engineers, Vadim Khayms  
 
 ## Quantitative/Scientific 
 #### _(Lab courses not listed)_
