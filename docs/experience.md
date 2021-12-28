@@ -38,13 +38,13 @@ Live-in Peer Counselor, The Bridge Peer Counseling Center, AY 2017-2018
 
 # Teaching
 
-Clinical Skills Teaching Assistant, INDE 201-202: Practice of Medicine, Fall and Winter 2020-21
+Clinical Skills Teaching Assistant, INDE 201-202: Practice of Medicine. Fall 2020-21, Winter 2020-21.
 
-Course Lead, EMED 235: Wilderness Leadership and Mentorship Skills for Medical Students. Spring 2020-21
+Course Lead, EMED 235: Wilderness Leadership and Mentorship Skills for Medical Students. Spring 2020-21.
 
-Clinical Instructor, EMED 111A/B/C:  Emergency Medical Responder Training, AY 2018-2019
+Clinical Instructor, EMED 111A/B/C:  Emergency Medical Responder Training. AY 2018-2019.
 
-Teaching Assistant, EDUC 193A: Core Peer Counseling Skills, Winter 2016, Winter 2017
+Teaching Assistant, EDUC 193A: Core Peer Counseling Skills. Winter 2015-16, Winter 2016-17.
 
 # Other Activities
 
