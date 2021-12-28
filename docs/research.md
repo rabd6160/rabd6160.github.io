@@ -6,9 +6,11 @@ permalink: /research/
 
  
 # **Research in Progress**
-_"Effects of Cervical Cancer Screening Policy on Birth Outcomes," 2021.
-"Review of Traumatic Thoracic and Lumbar Spine Injury Management," 2021.
-"Characterizing Gastrointestinal Dysfunction After Pancreatic Resection," 2021._
+_"Effects of Cervical Cancer Screening Policy on Birth Outcomes," 2021._
+
+_"Review of Traumatic Thoracic and Lumbar Spine Injury Management," 2021._
+
+_"Characterizing Gastrointestinal Dysfunction After Pancreatic Resection," 2021._
 
 # **Publications** 
 #### _*Co-first author_
@@ -24,13 +26,18 @@ Choi, Jeff, Kovi Bessoff, **Rebecca Bromley-Dulfano**, Zelin Li, Anshal Gupta, K
 
 # **Grants**
 Vice Provost for Teaching and Learning Innovation Grant. Independent research in STEM Education. $9,000.
+
 Public Service Seed Grant, Stanford Climate and Health. $15,000.
 
 # **Additional research experiences**
 Research Assistant, Stanford Prevention Research Center, Prochaska Lab, AY 2017-18
+
 Master's Thesis, Advised by Dr. Sue McConnell, Stanford University, STEM Education Research, AY 2017-18
+
 Research Intern, European Molecular Biology Lab, Hiiragi Group, Heidelberg Germany, Summer 2017
+
 Undergraduate Thesis, Stanford University, Fordyce Lab, Microfluidics lab, 2016-2017
+
 Research Intern. Research Experiences for Undergraduates (REU), University of Utah Astrophysics Department, Bolton Lab, Summer 2015
 
 # **Conferences and Seminars**
