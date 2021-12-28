@@ -40,37 +40,37 @@ Live-in Peer Counselor, The Bridge Peer Counseling Center, AY 2017-2018.
 
 Clinical Skills Teaching Assistant, INDE 201-202: Practice of Medicine. Fall 2020-21, Winter 2020-21.
 
-Course Lead, EMED 235: Wilderness Leadership and Mentorship Skills for Medical Students. Spring 2020-21.
+Course Lead, EMED 235: Wilderness Leadership and Mentorship Skills for Medical Students, Spring 2020-21.
 
-Clinical Instructor, EMED 111A/B/C:  Emergency Medical Responder Training. AY 2018-2019.
+Clinical Instructor, EMED 111A/B/C:  Emergency Medical Responder Training, AY 2018-2019.
 
 Teaching Assistant, EDUC 193A: Core Peer Counseling Skills. Winter 2015-16, Winter 2016-17.
 
 # Other Activities
 
-Committee on Curriculum and Academic Policy (CCAP), Clinical Students Representative. AY 2021-22.
+Committee on Curriculum and Academic Policy (CCAP), Clinical Students Representative, AY 2021-22.
 
-Committee on Curriculum and Academic Policy (CCAP), MS2 Class Representative. AY 2020-21.
+Committee on Curriculum and Academic Policy (CCAP), MS2 Class Representative, AY 2020-21.
 
 LCME Re-accreditation Committee Self-Study Taskforce, Medical Student Representative, AY 2020-21.
 
 First-Generation, Low-Income Medical Mentorship Program, Board Member and Mentor, June 2021-Present.
 
-Stanford Climate and Health, Founder, Board Member (AY 19-20), and Member. 2019-present.
+Stanford Climate and Health, Founder, Board Member (AY 19-20), and Member, 2019-present.
 
-Stanford Health Policy Collective, Director. AY 2020-21.
+Stanford Health Policy Collective, Director, AY 2020-21.
 
-Latino Medical Student Association, Financial Officer. AY 2020-2021.
+Latino Medical Student Association, Financial Officer, AY 2020-2021.
 
-Stanford LGBTQ+ Meds, Financial Officer. AY 2020-2021.
+Stanford LGBTQ+ Meds, Financial Officer, AY 2020-2021.
 
-Associated Students of Stanford University, Mental Health and Wellness Issue Lead. AY 2017-2018.
+Associated Students of Stanford University, Mental Health and Wellness Issue Lead, AY 2017-2018.
 
-Stanford Mental Health and Wellness Coalition, Director. AY 2016-2017.
+Stanford Mental Health and Wellness Coalition, Director, AY 2016-2017.
 
-Stanford University, Norcliffe Hall, Residential Assistant. AY 2016-2017.
+Stanford University, Norcliffe Hall, Residential Assistant, AY 2016-2017.
 
-The Bridge Peer Counseling Center, Peer Counselor. AY 2015-2018.
+The Bridge Peer Counseling Center, Peer Counselor, AY 2015-2018.
 
 
 
