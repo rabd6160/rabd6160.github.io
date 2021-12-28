@@ -41,7 +41,7 @@ Teaching Assistant, EDUC 193A: Core Peer Counseling Skills. Winter 2015-16, Wint
 
 # Other Activities
 
-Committee on Curriculum and Academic Policy (CCAP), Clinical Students Representative, AY 2021-22.  
+Committee on Curriculum and Academic Policy (CCAP), Clinical Student Representative, AY 2021-22.  
 Committee on Curriculum and Academic Policy (CCAP), MS2 Class Representative, AY 2020-21.  
 LCME Re-accreditation Committee Self-Study Taskforce, Medical Student Representative, AY 2020-21.  
 First-Generation, Low-Income Medical Mentorship Program, Board Member and Mentor, June 2021-Present.  
