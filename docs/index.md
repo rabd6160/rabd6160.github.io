@@ -11,6 +11,7 @@ Welcome to my portfolio! My name is Rebecca Bromley-Dulfano (she/her), and I'm a
 I hope this website offers a glimpse of some of the work I've done and the interests that I have. If you'd like to connect, please reach out to me at rabd@stanford.edu.
 
 Thanks,
+
 Becca
 
 <br/>
