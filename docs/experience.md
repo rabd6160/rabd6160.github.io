@@ -21,7 +21,7 @@ Community Impact Fellow, Ravenswood Family Health Center, Dental Department, 201
     </li>
 </ul>
 
-Stanford EMT Training Program Coordinator, {\sc EMED 111A/B/C}, AY 2018-2019
+Stanford EMT Training Program Coordinator, EMED 111A/B/C, AY 2018-2019
 <ul>
     <li>Managed all aspects of logistics for a three-quarter EMT-B certification course with 35 students and 12 teaching assistants.</li>
     <li>Teaching responsibilities included lecturing, bi-weekly hands-on EMT-B practical skills sessions, and making curriculum improvements based on student feedback.</li>
